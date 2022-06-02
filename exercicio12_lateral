@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Exercicio nº12_lateral</title>
+</head>
+<body >
+<a href ="Exer1.html" target ="janela2">Exercicio nº1</a><br>
+<a href ="Exer2.html" target ="janela2">Exercicio nº2</a><br>
+<a href ="Exer3.html" target ="janela2">Exercicio nº3</a><br>
+<a href ="Exer4.html" target ="janela2">Exercicio nº4</a><br>
+<a href ="Exer5.html" target ="janela2">Exercicio nº5</a><br>
+<a href ="Exer6.html" target ="janela2">Exercicio nº6</a><br>
+<a href ="Exer7.html" target ="janela2">Exercicio nº7</a><br>
+<a href ="Exer8.html" target ="janela2">Exercicio nº8</a>
+</body>
+</html>
